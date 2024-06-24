@@ -1,3 +1,9 @@
+intel-vc-intrinsics (0.18.0-1deepin1) unstable; urgency=medium
+
+  * chore: Bump llvm Depends to 15
+
+ -- hudeng <hudeng@deepin.org>  Mon, 24 Jun 2024 14:08:58 +0800
+
 intel-vc-intrinsics (0.18.0-1) unstable; urgency=medium
 
   * New upstream release.
